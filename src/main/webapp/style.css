@@ -1,0 +1,21 @@
+.primary-background
+{
+	background-color: #2196f3;
+}
+.banner-background
+{
+	background-color: #1a237e !important;
+}
+.clip-background
+{
+	clip-path: polygon(50% 0%, 100% 0, 100% 35%, 100% 96%, 79% 90%, 50% 100%, 20% 90%, 0 100%, 0% 35%, 0 0);
+}
+.login-background
+{
+	background:linear-gradient(to right,rgba(79,51,176),rgba(210,53,165));
+}
+.cliplogin-background
+{
+	clip-path: polygon(20% 0%, 80% 0%, 100% 0, 100% 84%, 77% 93%, 31% 89%, 0 99%, 0 0);
+	
+}
